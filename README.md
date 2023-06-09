@@ -1,2 +1,1 @@
-# dicionarioohtmlcss
-Dicionário com os principais termos de HTML/CSS para iniciantes
+[Link para o meu dicionárioohtmlcss.md](dicionarioohtmlcss.md)
